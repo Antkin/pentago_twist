@@ -1,0 +1,15 @@
+# Server version 0.08 running on DESKTOP-KBF0LM0:8123
+# Game ID: 10
+# Board class: pentago_twist.PentagoBoard
+# Timeout: 20000
+# First Move Timeout: 30000
+# Date: Sat Apr 10 13:03:31 EDT 2021
+# Starting at move 1
+# Player 1: Player-0, 'Human', running on DESKTOP-KBF0LM0
+# Player 2: Player-1, 'xxxxxxxxx', running on DESKTOP-KBF0LM0
+START Player-0 Human
+START Player-1 xxxxxxxxx
+1 0 0 1 0
+4 4 2 0 1
+GAMEOVER ILLEGAL MOVE: Player 0, Move: (1, 1), R/F: (0, 2) WINNER 1
+# Game ended: Sat Apr 10 13:03:46 EDT 2021

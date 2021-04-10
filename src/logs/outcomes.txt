@@ -1,0 +1,23 @@
+1,Human,RandomPlayer,1,RandomPlayer,0,game00001.log,ILLEGAL MOVE: Player 0, Move: (5, 0), R/F: (2, 2)
+2,RandomPlayer,RandomPlayer,1,RandomPlayer,14,game00002.log,
+3,Human,RandomPlayer,1,RandomPlayer,4,game00003.log,ILLEGAL MOVE: Player 0, Move: (3, 1), R/F: (2, 2)
+4,RandomPlayer,xxxxxxxxx,1,xxxxxxxxx,14,game00004.log,
+5,Human,RandomPlayer,1,RandomPlayer,0,game00005.log,ILLEGAL MOVE: Player 0, Move: (5, 0), R/F: (2, 2)
+6,Human,RandomPlayer,1,RandomPlayer,0,game00006.log,ILLEGAL MOVE: Player 0, Move: (4, 1), R/F: (2, 2)
+7,Human,RandomPlayer,1,RandomPlayer,0,game00007.log,ILLEGAL MOVE: Player 0, Move: (5, 0), R/F: (2, 2)
+8,Human,RandomPlayer,1,RandomPlayer,1,game00008.log,ILLEGAL MOVE: Player 0, Move: (4, 1), R/F: (2, 2)
+9,Human,xxxxxxxxx,1,xxxxxxxxx,0,game00009.log,ILLEGAL MOVE: Player 0, Move: (3, 1), R/F: (2, 2)
+10,Human,xxxxxxxxx,1,xxxxxxxxx,1,game00010.log,ILLEGAL MOVE: Player 0, Move: (1, 1), R/F: (0, 2)
+11,Human,xxxxxxxxx,1,xxxxxxxxx,2,game00011.log,ILLEGAL MOVE: Player 0, Move: (4, 1), R/F: (2, 2)
+12,Human,RandomPlayer,1,RandomPlayer,2,game00012.log,ILLEGAL MOVE: Player 0, Move: (3, 1), R/F: (2, 2)
+13,Human,RandomPlayer,1,RandomPlayer,0,game00013.log,ILLEGAL MOVE: Player 0, Move: (4, 1), R/F: (2, 2)
+14,Human,RandomPlayer,1,RandomPlayer,0,game00014.log,ILLEGAL MOVE: Player 0, Move: (3, 1), R/F: (2, 2)
+15,Human,RandomPlayer,1,RandomPlayer,0,game00015.log,ILLEGAL MOVE: Player 0, Move: (4, 0), R/F: (2, 2)
+16,Human,xxxxxxxxx,1,xxxxxxxxx,0,game00016.log,ILLEGAL MOVE: Player 0, Move: (3, 1), R/F: (2, 2)
+17,Human,RandomPlayer,1,RandomPlayer,0,game00017.log,ILLEGAL MOVE: Player 0, Move: (4, 0), R/F: (2, 2)
+18,Human,RandomPlayer,1,RandomPlayer,0,game00018.log,ILLEGAL MOVE: Player 0, Move: (2, 0), R/F: (2, 2)
+19,RandomPlayer,Human,0,RandomPlayer,0,game00019.log,ILLEGAL MOVE: Player 1, Move: (3, 1), R/F: (2, 2)
+20,Human,RandomPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,2,game00020.log,USER CANCEL
+21,Human,RandomPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,2,game00021.log,USER CANCEL
+22,Human,Human,GAMEOVER USER CANCEL UNDECIDED,NOBODY,0,game00022.log,USER CANCEL
+23,Human,Human,GAMEOVER USER CANCEL UNDECIDED,NOBODY,1,game00023.log,USER CANCEL

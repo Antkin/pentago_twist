@@ -30,6 +30,14 @@ public class StudentPlayer extends PentagoPlayer {
 
         // Is random the best you can do?
         Move myMove = boardState.getRandomMove();
+        
+        /*
+        *We will implement MCTS in order to select moves
+        *There are four phases: Selection, Expansion, Simulation, and Backpropagation
+        *Code to run those moves will be in MyTools.java
+        */
+        
+        
 
         // Return your move to be processed by the server.
         return myMove;
